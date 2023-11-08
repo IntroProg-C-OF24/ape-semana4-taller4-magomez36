@@ -20,3 +20,4 @@ public class CostoComputadora_5 {
         System.out.println("El costo de la Computadora de Escritorio es: " + costoComputadora);
     }
 }
+//Autor: Manuel Gomez

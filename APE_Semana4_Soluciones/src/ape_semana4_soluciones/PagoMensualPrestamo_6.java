@@ -17,3 +17,4 @@ public class PagoMensualPrestamo_6 {
         System.out.println("El pago Mensual de un Prestamo de 1 year de plazo es: " + pagoMensualPrestamo);
     }
 }
+//Autor: Manuel Gomez

@@ -20,3 +20,4 @@ public class TablaMultiplicar_3 {
         }
     }
 }
+//Autor: Manuel Gomez

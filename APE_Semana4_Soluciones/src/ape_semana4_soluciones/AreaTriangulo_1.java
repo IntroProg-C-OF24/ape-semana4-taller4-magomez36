@@ -19,3 +19,4 @@ public class AreaTriangulo_1 {
         
     }
 }
+//Autor: Manuel Gomez

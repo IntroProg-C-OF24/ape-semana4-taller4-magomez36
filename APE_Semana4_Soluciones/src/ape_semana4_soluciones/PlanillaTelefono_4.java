@@ -16,3 +16,4 @@ public class PlanillaTelefono_4 {
         System.out.println("EL VALOR DE LA PLANILLA DE TELEFONO ES:" + valorPlanillaTelefono);
     }
 }
+//Autor: Manuel Gomez

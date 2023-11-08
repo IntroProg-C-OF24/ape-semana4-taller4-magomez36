@@ -18,3 +18,4 @@ public class GastosHijos_2 {
         System.out.println("LOS GASTOS TOTALES DE LOS HIJOS SON:" + gastosTotales);
     }
 }
+//Autor: Manuel Gomez

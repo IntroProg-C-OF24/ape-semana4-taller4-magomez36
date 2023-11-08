@@ -19,3 +19,4 @@ public class PlanillaLuz_7 {
         
     }
 }
+//Autor: Manuel Gomez

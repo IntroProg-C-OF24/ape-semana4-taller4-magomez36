@@ -18,3 +18,4 @@ public class AreaPoligono_9 {
         System.out.println("El Area del Poligono es:" + areaPoligono);
     }
 }
+//Autor: Manuel Gomez
